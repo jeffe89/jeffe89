@@ -3,9 +3,9 @@
 I'm a recent **Computer Science graduate from CSUSM** based in Southern California. My favorite languages right now are **Python** and **Go**, and I'm always experimenting with new technologies.
 
 🧠 My current interests include:
-  -🤖 Artificial Intelligence – building simple agents and exploring how tools can make code smarter and more autonomous.
-  -🔐 Cybersecurity – diving into best‑practices for secure code, authentication and infrastructure.
-  -⚙️ Clean code & maintainable software – writing readable, testable programs and automating workflows.
+-🤖 Artificial Intelligence – building simple agents and exploring how tools can make code smarter and more autonomous.
+-🔐 Cybersecurity – diving into best‑practices for secure code, authentication and infrastructure.
+-⚙️ Clean code & maintainable software – writing readable, testable programs and automating workflows.
 
 🎮 When I’m not coding, you can find me gaming, reading, or learning something new just for fun.
 
